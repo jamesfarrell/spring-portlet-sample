@@ -1,0 +1,6 @@
+Code for blog on integration testing for portlet MVC:
+http://jamesfarrell129.wordpress.com/2011/04/20/integration-testing-for-spring-portlet-mvc/
+
+Project can be built using Maven pom.
+Based on a sample application found here: http://code.google.com/p/spring-portlet-sample/source/browse/
+
